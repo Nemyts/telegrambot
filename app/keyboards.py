@@ -1,4 +1,2 @@
-print('Hello world')
-a = 45 *5
-
-print(a)
+i = 'Hello Python'
+print(i)
