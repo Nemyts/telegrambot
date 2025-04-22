@@ -1,3 +1,4 @@
 print('Hello world')
-print('hello Python')
-print("bye bye")
+a = 45 *5
+
+print(a)
